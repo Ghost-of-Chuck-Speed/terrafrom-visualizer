@@ -1,0 +1,60 @@
+/* src/App.css */
+
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #2c3e50;
+}
+
+.upload-section {
+  margin-bottom: 20px;
+  padding: 10px;
+  background-color: #f4f4f4;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.visualization-section {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #ecf0f1;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+button {
+  padding: 10px 20px;
+  cursor: pointer;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
+
+ul {
+  text-align: left;
+  padding-left: 20px;
+}
+
+li {
+  margin: 5px 0;
+}
+
+p {
+  font-size: 1.2rem;
+  color: #7f8c8d;
+}
+
+h2, h3 {
+  color: #34495e;
+}
+
